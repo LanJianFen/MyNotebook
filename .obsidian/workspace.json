@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "efc8a43790af46c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e094b7adf8ec869",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "779c40b4a0c0d579",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Render/渲染方程/辐射度量学和光度学单位/实时渲染对渲染方程的简化.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "实时渲染对渲染方程的简化"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d577faffc757c49e",
+    "type": "split",
+    "children": [
+      {
+        "id": "00eeb0a6610fe133",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34f30a9f5155353f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "52afc243b035de69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "path:\"Render/渲染方程/\" ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "8be5b1d960f208bc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5cbdbc4f6bcedf2d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c14b7498af26a3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85cc131f49a6105c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Render/渲染方程/Radiance（3）.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Radiance（3） 的反向链接列表"
+            }
+          },
+          {
+            "id": "f56a7979f15dae4d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Render/渲染方程/Radiance（3）.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Radiance（3） 的出链列表"
+            }
+          },
+          {
+            "id": "fc8e5d930cb25a57",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "3f72e154e1d470dd",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4db3277b161c06b7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Render/渲染方程/Radiance（3）.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Radiance（3） 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "779c40b4a0c0d579",
+  "lastOpenFiles": [
+    "Render/渲染方程/辐射度量学和光度学单位/光度学单位转Shader RGB.md",
+    "Render/渲染方程/辐射度量学和光度学单位/证明渲染方程可以用光度学单位.md",
+    "Render/渲染方程/辐射度量学和光度学单位/Unity和UE的光源定义.md",
+    "Render/渲染方程/辐射度量学和光度学单位/辐射度量学单位和光度学单位.md",
+    "编程/C++/小知识点/各种源码文件后缀.md",
+    "编程/C++/小知识点/类模板.md.crdownload",
+    "编程/C++/小知识点/类模板为什么要把声明和实现写在一起.md",
+    "编程/C++/小知识点/Cpp内联函数作用.md",
+    "编程/C++/小知识点/Cpp内联函数作用.md.crdownload",
+    "编程/C++/小知识点",
+    "编程/C++/动态库/什么是so文件.md",
+    "编程/C++/动态库/什么是so文件.md.crdownload",
+    "编程/C++/动态库",
+    "编程/C Sharp/GC/栈和托管堆的GC时机.md",
+    "编程/C Sharp/GC/Java CSharp 调用 C加加 的实现.md.crdownload",
+    "编程/C Sharp/GC",
+    "编程/C Sharp",
+    "编程/C Sharp/跨语言调用/C# 如何调用 C++.md",
+    "编程/C++/跨语言调用/Java CSharp 调用 C加加 的实现.md.crdownload",
+    "编程/C Sharp/跨语言调用",
+    "未命名.md",
+    "Math/微积分/流形/从过渡公式创建标准流形.md",
+    "Math/微积分/四元数/两个欧拉角之间如何用四元数旋转(1).md",
+    "Math/微积分/四元数/两个欧拉角之间如何用四元数旋转(2).md",
+    "Math/微积分/四元数/两个欧拉角之间如何用四元数旋转(3)：平滑的旋转插值.md",
+    "Math/微积分/四元数/旋转这个三维弯曲流形建立坐标系的理解（2）.md",
+    "Math/微积分/四元数/旋转这个三维弯曲流形建立坐标系的理解（3）.md",
+    "Math/微积分/四元数/旋转这个三维弯曲流形建立坐标系的理解（1）.md",
+    "Math/微积分/四元数/旋转这个三维弯曲流形建立坐标系的理解（4）：从四元数算出欧拉角.md",
+    "Math/微积分/四元数/在四维空间表示三维姿态.md",
+    "Math/微积分/四元数/三维万向节死锁.md",
+    "Math/微积分/四元数/旋转这个三维弯曲流形怎么建立坐标系.md",
+    "Math/微积分/流形/平坦流形坐标和弯曲流行坐标建立不了一对一映射.md",
+    "Math/微积分/流形/内在流形和外在嵌入.md",
+    "Math/微积分/流形/将流形映射成标准流形.md",
+    "Math/微积分/流形/同胚和同胚映射.md",
+    "Math/概率论/高斯分布/Pasted image 20260523135446.png",
+    "Math/概率论/逆变换采样/Pasted image 20260523113723.png",
+    "Render/渲染方程/辐射度量学/Radience Intensity.jpg",
+    "Render/杂项/Mesh为什么把法线定义在三角形的顶点.jpg",
+    "Unity/杂项/Unity图片的像素在transform里占的单位.jpeg",
+    "Unity/杂项/Unity DOTS和ECS.jpg",
+    "Unity/杂项/Unity fade和cutout材质.jpg",
+    "引擎/Guid是什么.jpg",
+    "Pasted image 20260419161426.png",
+    "Render/Mesh Shader/Pasted image 20260419161431.png",
+    "未命名.canvas"
+  ]
+}
