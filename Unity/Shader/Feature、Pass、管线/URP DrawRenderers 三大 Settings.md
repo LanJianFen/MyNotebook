@@ -1,4 +1,3 @@
-# URP DrawRenderers 三大 Settings
 
 `context.DrawRenderers()` 是 URP RenderPass 里最常用的绘制入口，它需要三个 Settings 结构体协作：
 
